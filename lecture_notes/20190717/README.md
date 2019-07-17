@@ -39,7 +39,7 @@
 - 決策樹(Decision Tree)
 - 支援向量機(Support Vector Machine)
 - 貝式網路(Bayesian Networks)
-- 基因演算法(Genetic Algorithm)
+- [基因演算法(Genetic Algorithm)](http://www.jade-cheng.com/au/coalhmm/optimization/)
 - 類神經網路(Neuarl Networks)
 
 ## 線性迴歸(Linear Regression)
