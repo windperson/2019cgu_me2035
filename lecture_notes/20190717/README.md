@@ -2,6 +2,12 @@
 
 ## 機器學習簡介
 
+三個重點概念：
+
+ - Garbage In Garbage Out
+ - Feature Selection
+ - Overfitting
+
 ### 機器學習演算法的操作型分類
 
 - 監督式(Supervised Learning)
