@@ -27,8 +27,6 @@
 
 - 分群(Clustering)
 
-- 線性迴歸(Linear Regression)
-
 ### 機器學習演算法的技術型分類
 
 - 決策樹(Decision Tree)
