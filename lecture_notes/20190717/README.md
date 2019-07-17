@@ -40,7 +40,7 @@
 - 支援向量機(Support Vector Machine)
 - 貝式網路(Bayesian Networks)
 - [基因演算法(Genetic Algorithm)](http://www.jade-cheng.com/au/coalhmm/optimization/)
-- 類神經網路(Neuarl Networks)
+- 類神經網路(Neuarl Networks)  
   現在比較常用NN(Neural Networks)的原因：[https://youtu.be/PySo_6S4ZAg?t=330](https://youtu.be/PySo_6S4ZAg?t=330)
 
 ## 線性迴歸(Linear Regression)
