@@ -10,6 +10,13 @@
 
 [機器學習的完整過程簡介](https://youtu.be/X3paOmcrTjQ?t=27)
 
+### 資料清洗的常用工具
+
+**Regular Expression**
+
+- Windows上好用的免費小工具：[Expresso](http://www.ultrapico.com/ExpressoDownload.htm)
+
+
 ### 機器學習演算法的操作型分類
 
 - 監督式(Supervised Learning)
