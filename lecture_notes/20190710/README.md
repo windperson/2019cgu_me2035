@@ -8,6 +8,9 @@
 
 [Azure Notebooks 官方說明文件](https://docs.microsoft.com/zh-tw/azure/notebooks/)
 
+- Markdown語法速查：[https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
+- 問題回報可至Github發issue：[https://github.com/microsoft/AzureNotebooks](https://github.com/microsoft/AzureNotebooks)
+
 [Azure Notebooks 範例](http://bit.ly/pythondemo_20190710)
 
 [匯入的範例Github檔案庫](https://github.com/jakevdp/PythonDataScienceHandbook)
