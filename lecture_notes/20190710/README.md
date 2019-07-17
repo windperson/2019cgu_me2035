@@ -9,7 +9,7 @@
 [Azure Notebooks 官方說明文件](https://docs.microsoft.com/zh-tw/azure/notebooks/)
 
 - Markdown語法速查：[https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
-- 問題回報可至Github發issue：[https://github.com/microsoft/AzureNotebooks](https://github.com/microsoft/AzureNotebooks)
+- 問題回報或功能需求可至官方Github發issue：[https://github.com/microsoft/AzureNotebooks](https://github.com/microsoft/AzureNotebooks)
 
 [Azure Notebooks 範例](http://bit.ly/pythondemo_20190710)
 
@@ -20,3 +20,5 @@
 [Lambda function](https://kaiching.org/pydoing/py/python-lambda.html)
 
 [List Comprehension](https://kaiching.org/pydoing/py/python-comprehension.html)
+
+[Slice notation](https://www.pythoncentral.io/how-to-slice-listsarrays-and-tuples-in-python/)
