@@ -8,13 +8,16 @@
  - Feature Selection
  - Overfitting
 
+[機器學習的完整過程簡介](https://youtu.be/X3paOmcrTjQ?t=27)
+
 ### 機器學習演算法的操作型分類
 
 - 監督式(Supervised Learning)
 
 - 非監督式(Unsupervised Learning)
   - 強化學習(Reinforement Learning)
-    - 生成式對抗網路 (Generative Adversarial Network, GAN)
+    - 生成式對抗網路 (Generative Adversarial Network, GAN)  
+    [強化學習模擬人類二足運動](https://youtu.be/eVccQ82BekI)
 
 ### 機器學習演算法的用途型分類
 
