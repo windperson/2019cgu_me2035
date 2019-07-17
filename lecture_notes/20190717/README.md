@@ -46,3 +46,5 @@
 ## 線性迴歸(Linear Regression)
 
 [範例](./linear_regression.md)
+
+[作業一](./work1.md)
