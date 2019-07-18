@@ -2,11 +2,11 @@
 
 ## 機器學習簡介
 
-三個重點概念：
+三個重點概念：  
 
- - Garbage In Garbage Out
- - Feature Selection
- - Overfitting
+- Garbage In Garbage Out
+- Feature Selection
+- Overfitting
 
 [機器學習的完整過程簡介](https://youtu.be/X3paOmcrTjQ?t=27)
 
@@ -15,7 +15,6 @@
 **Regular Expression**
 
 - Windows上好用的免費小工具：[Expresso](http://www.ultrapico.com/ExpressoDownload.htm)
-
 
 ### 機器學習演算法的操作型分類
 
@@ -47,4 +46,4 @@
 
 [範例](./linear_regression.md)
 
-[作業一](./work1.md)
+[作業1](./work1.md)
