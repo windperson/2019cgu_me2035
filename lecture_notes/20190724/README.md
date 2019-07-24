@@ -38,4 +38,6 @@ Python的sklearn有提供現成的[`LogisticRegression`類別](https://scikit-le
   - sklearn的[`MeanShift`類別](https://scikit-learn.org/stable/modules/generated/sklearn.cluster.MeanShift.html)以及使用[範例](https://scikit-learn.org/stable/auto_examples/cluster/plot_mean_shift.html)
 - DBSCAN
   - sklearn的[`DBSCAN`類別](https://scikit-learn.org/stable/modules/generated/sklearn.cluster.DBSCAN.html)以及使用[範例](https://scikit-learn.org/stable/auto_examples/cluster/plot_dbscan.html)
-- GMM
+- GMM(Gaussian Mixture Models)
+  - sklearn的[`GaussianMixture`類別](https://scikit-learn.org/stable/modules/generated/sklearn.mixture.GaussianMixture.html#sklearn.mixture.GaussianMixture)
+  - Python Data Science Handbook: [In Depth: Gaussian Mixture Models](https://jakevdp.github.io/PythonDataScienceHandbook/05.12-gaussian-mixtures.html)
