@@ -36,4 +36,5 @@ Python的sklearn有提供現成的[`LogisticRegression`類別](https://scikit-le
   - sklearn的[`KMeans`類別](https://scikit-learn.org/stable/modules/generated/sklearn.cluster.KMeans.html)，使用方法見[這篇](https://towardsdatascience.com/understanding-k-means-clustering-in-machine-learning-6a6e67336aa1)的介紹。
 - Mean-Shift
 - DBSCAN
+  - sklearn的[`DBSCAN`類別](https://scikit-learn.org/stable/modules/generated/sklearn.cluster.DBSCAN.html)以及使用[範例](https://scikit-learn.org/stable/auto_examples/cluster/plot_dbscan.html)
 - GMM
