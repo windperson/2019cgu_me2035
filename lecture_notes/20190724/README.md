@@ -1,8 +1,8 @@
 # 分類(Classification) 與 分群(Clustering)
 
-## 分類
+## 分類(Classification)
 
-將已知資料歸類到已知或已定義的分組
+將資料歸類到已知或已定義的分組
 
 ### 邏輯迴歸(Logistic regression)
 
@@ -14,10 +14,26 @@ Python的sklearn有提供現成的[`LogisticRegression`類別](https://scikit-le
 ### 簡單的分類演算法
 
 - 單純貝氏分類(Naive Bayes)
+  - sklearn的[`GaussianNB`類別](https://scikit-learn.org/stable/modules/generated/sklearn.naive_bayes.GaussianNB.html)，使用方法見[這篇](https://ithelp.ithome.com.tw/articles/10205582)的介紹
 
 - K-近鄰演算法(K Nearest Neighbor ,KNN)
-  - sklearn的[`KNeighborsClassifier`類別](https://scikit-learn.org/stable/modules/generated/sklearn.neighbors.KNeighborsClassifier.html)，可見[這篇](https://ithelp.ithome.com.tw/articles/10197110)的介紹
+  - sklearn的[`KNeighborsClassifier`類別](https://scikit-learn.org/stable/modules/generated/sklearn.neighbors.KNeighborsClassifier.html)，使用方法見[這篇](https://ithelp.ithome.com.tw/articles/10197110)的介紹
 
 ### 進階的分類演算法
 
 - 支援向量機(Support Vector Machine, SVM)
+
+## 分群(Clustering)
+
+將資料依據某些特性數據量值來分群組，所區分的群組數可能固定可能不固定
+
+### 分群演算法
+
+[The 5 Clustering Algorithms Data Scientists Need to Know](http://towardsdatascience.com/the-5-clustering-algorithms-data-scientists-need-to-know-a36d136ef68)
+
+- K-Means
+  - 需要預先設定總共區分的群組數
+  - sklearn的[`KMeans`類別](https://scikit-learn.org/stable/modules/generated/sklearn.cluster.KMeans.html)，使用方法見[這篇](https://towardsdatascience.com/understanding-k-means-clustering-in-machine-learning-6a6e67336aa1)的介紹。
+- Mean-Shift
+- DBSCAN
+- GMM
