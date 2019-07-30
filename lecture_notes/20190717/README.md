@@ -12,9 +12,10 @@
 
 ### 資料清洗的常用工具
 
-**Regular Expression**
+- [**Regular Expression**](https://www.w3schools.com/python/python_regex.asp)
+  - Windows上好用的免費小工具：[Expresso](http://www.ultrapico.com/ExpressoDownload.htm)
 
-- Windows上好用的免費小工具：[Expresso](http://www.ultrapico.com/ExpressoDownload.htm)
+- [**Pandas** 基礎入門](https://blog.kdchang.cc/2017/10/11/python-data-science-and-machine-learning-pandas-tutorial)
 
 ### 機器學習演算法的操作型分類
 
