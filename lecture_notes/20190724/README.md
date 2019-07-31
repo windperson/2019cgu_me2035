@@ -17,7 +17,7 @@ Python的sklearn有提供現成的[`LogisticRegression`類別](https://scikit-le
   - sklearn的[`GaussianNB`類別](https://scikit-learn.org/stable/modules/generated/sklearn.naive_bayes.GaussianNB.html)，使用方法見[這篇](https://ithelp.ithome.com.tw/articles/10205582)的介紹
   - [Azure Notebooks範例](http://notebooks.azure.com/jakevdp/projects/PythonDataScienceHandbook/html/notebooks/05.05-Naive-Bayes.ipynb)
 
-- K-近鄰演算法(K Nearest Neighbor ,KNN)
+- K-近鄰演算法(K Nearest Neighbor, **KNN**)
   - sklearn的[`KNeighborsClassifier`類別](https://scikit-learn.org/stable/modules/generated/sklearn.neighbors.KNeighborsClassifier.html)，使用方法見[這篇](https://ithelp.ithome.com.tw/articles/10197110)的介紹
 
 ### 進階的分類演算法
