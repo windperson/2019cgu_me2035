@@ -4,7 +4,8 @@
 
 - [PyPi](https://pypi.org/)
 
-- [duckduckgo搜尋引擎使用"bang"`!pip`查詢](https://duckduckgo.com/bang?q=!pip)
+- [duckduckgo搜尋引擎使用"bang(碰搜尋)"`!pip`查詢](https://duckduckgo.com/bang)  
+  [duckduckgo中文說明](https://blog.timshan.idv.tw/2018/04/how-to-duckduckgo.html)
 
 ## Python資料視覺化函式庫
 
