@@ -10,6 +10,10 @@
 
 - [seaborn](https://seaborn.pydata.org/installing.html) data visualization library
 
+## 示範專案
+
+- [貝式分類](http://notebooks.azure.com/windperson2/projects/gaussiannb-demo)  
+   遵循[這個範例](https://notebooks.azure.com/jakevdp/projects/PythonDataScienceHandbook/html/notebooks/05.05-Naive-Bayes.ipynb)練習
 
 ## Homework
 
