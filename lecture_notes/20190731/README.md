@@ -14,7 +14,8 @@
 ## 示範專案
 
 - [貝式分類](http://notebooks.azure.com/windperson2/projects/gaussiannb-demo)  
-   遵循[這個範例](https://notebooks.azure.com/jakevdp/projects/PythonDataScienceHandbook/html/notebooks/05.05-Naive-Bayes.ipynb)練習
+  - 遵循[這個範例](https://notebooks.azure.com/jakevdp/projects/PythonDataScienceHandbook/html/notebooks/05.05-Naive-Bayes.ipynb)練習
+  - [多變數因子的貝氏分類範例](http://dataaspirant.com/2017/02/20/gaussian-naive-bayes-classifier-implementation-python/)
 
 ## Homework
 
