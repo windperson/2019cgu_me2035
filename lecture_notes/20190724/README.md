@@ -15,6 +15,7 @@ Python的sklearn有提供現成的[`LogisticRegression`類別](https://scikit-le
 
 - 單純貝氏分類(Naive Bayes)
   - sklearn的[`GaussianNB`類別](https://scikit-learn.org/stable/modules/generated/sklearn.naive_bayes.GaussianNB.html)，使用方法見[這篇](https://ithelp.ithome.com.tw/articles/10205582)的介紹
+  - [Azure Notebooks範例](http://notebooks.azure.com/jakevdp/projects/PythonDataScienceHandbook/html/notebooks/05.05-Naive-Bayes.ipynb)
 
 - K-近鄰演算法(K Nearest Neighbor ,KNN)
   - sklearn的[`KNeighborsClassifier`類別](https://scikit-learn.org/stable/modules/generated/sklearn.neighbors.KNeighborsClassifier.html)，使用方法見[這篇](https://ithelp.ithome.com.tw/articles/10197110)的介紹
@@ -29,15 +30,20 @@ Python的sklearn有提供現成的[`LogisticRegression`類別](https://scikit-le
 
 ### 分群演算法
 
+sklearn的`sklearn.cluster`模組提供了現成可用的演算法：  
+[http://scikit-learn.org/stable/modules/clustering.html#clustering](http://scikit-learn.org/stable/modules/clustering.html#clustering)
+
 [The 5 Clustering Algorithms Data Scientists Need to Know](http://towardsdatascience.com/the-5-clustering-algorithms-data-scientists-need-to-know-a36d136ef68)
 
 - K-Means
   - 需要預先設定總共區分的群組數
   - sklearn的[`KMeans`類別](https://scikit-learn.org/stable/modules/generated/sklearn.cluster.KMeans.html)，使用方法見[這篇](https://towardsdatascience.com/understanding-k-means-clustering-in-machine-learning-6a6e67336aa1)的介紹。
+- GMM(Gaussian Mixture Models)
+  - sklearn的[`GaussianMixture`類別](https://scikit-learn.org/stable/modules/generated/sklearn.mixture.GaussianMixture.html#sklearn.mixture.GaussianMixture)
+  - Python Data Science Handbook: [In Depth: Gaussian Mixture Models](https://jakevdp.github.io/PythonDataScienceHandbook/05.12-gaussian-mixtures.html)
 - Mean-Shift
   - sklearn的[`MeanShift`類別](https://scikit-learn.org/stable/modules/generated/sklearn.cluster.MeanShift.html)以及使用[範例](https://scikit-learn.org/stable/auto_examples/cluster/plot_mean_shift.html)
 - DBSCAN
   - sklearn的[`DBSCAN`類別](https://scikit-learn.org/stable/modules/generated/sklearn.cluster.DBSCAN.html)以及使用[範例](https://scikit-learn.org/stable/auto_examples/cluster/plot_dbscan.html)
-- GMM(Gaussian Mixture Models)
-  - sklearn的[`GaussianMixture`類別](https://scikit-learn.org/stable/modules/generated/sklearn.mixture.GaussianMixture.html#sklearn.mixture.GaussianMixture)
-  - Python Data Science Handbook: [In Depth: Gaussian Mixture Models](https://jakevdp.github.io/PythonDataScienceHandbook/05.12-gaussian-mixtures.html)
+- Agglomerative Hierarchical Clustering
+  - sklearn的[`AgglomerativeClustering`類別](http://scikit-learn.org/stable/modules/generated/sklearn.cluster.AgglomerativeClustering.html#sklearn.cluster.AgglomerativeClustering)
