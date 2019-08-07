@@ -4,6 +4,12 @@
 
 [使用LabelEncoder和OneHotEncoder](https://kknews.cc/zh-tw/other/kba3lvv.html)
 
+## 雲端懶人包的AI服務
+
+- [customvision.ai](https://www.customvision.ai)
+
+看產生出來的類神經網路模型檔案檢視器：[https://github.com/lutzroeder/netron](https://github.com/lutzroeder/netron)
+
 ## Support Vector Machine 演算法
 
 用來區分結果只有兩類別的演算法
