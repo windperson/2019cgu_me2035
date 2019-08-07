@@ -1,4 +1,10 @@
-# Support Vector Machine 演算法
+# 資料處理
+
+## 非數字資料的處理方法
+
+[使用LabelEncoder和OneHotEncoder](https://kknews.cc/zh-tw/other/kba3lvv.html)
+
+## Support Vector Machine 演算法
 
 用來區分結果只有兩類別的演算法
 
