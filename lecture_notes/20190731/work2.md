@@ -6,4 +6,3 @@
 (**Bonus**: 找出該演算法的準確率)
 
 載入MNIST資料集的方法可參考[這篇](http://www.codingame.com/playgrounds/37409/handwritten-digit-recognition-using-scikit-learn)的 **Loading the Dataset**
-

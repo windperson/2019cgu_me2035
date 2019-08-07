@@ -10,6 +10,11 @@
 
 看產生出來的類神經網路模型檔案檢視器：[https://github.com/lutzroeder/netron](https://github.com/lutzroeder/netron)
 
+## 看 CSV 檔的方法
+
+除了用excel之外，也可以用這個Visual Studio Code外掛直接檢視：
+[https://marketplace.visualstudio.com/items?itemName=GrapeCity.gc-excelviewer](https://marketplace.visualstudio.com/items?itemName=GrapeCity.gc-excelviewer)
+
 ## Support Vector Machine 演算法
 
 用來區分結果只有兩類別的演算法
