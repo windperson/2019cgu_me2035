@@ -40,3 +40,5 @@
 
 5. 按下方的 **套用(A)** 和 **確定** 關閉Jupyter Notebook捷徑的內容視窗之後，之後啟動Jupyter Notebook時，就會使用前一個步驟所設定的目錄位置：
    ![start Jupyter Notebook with custom location](./win/config_04.png)
+
+可參考Juypter Notebook官方說明：[http://jupyter-notebook-beginner-guide.readthedocs.io/en/latest/execute.html](http://jupyter-notebook-beginner-guide.readthedocs.io/en/latest/execute.html)
