@@ -1,4 +1,6 @@
-# Clustering 演算法
+# 今日上課提到的東西
+
+## Clustering 演算法
 
 [K-Means 演算法步驟解釋影片](https://www.youtube.com/watch?v=4b5d3muPQmA)
 
@@ -10,3 +12,7 @@
 [Python scikit-learn範例](https://stackabuse.com/decision-trees-in-python-with-scikit-learn/)
 
 [Hierarchical Clustering 演算法步驟解釋影片](https://www.youtube.com/watch?v=7xHsRkOdVwo)
+
+## Python 訓練好的模型在其他平台的使用方法
+
+[https://github.com/onnx/sklearn-onnx](https://github.com/onnx/sklearn-onnx)
