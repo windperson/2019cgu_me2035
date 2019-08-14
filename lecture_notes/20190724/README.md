@@ -42,6 +42,7 @@ sklearn的`sklearn.cluster`模組提供了現成可用的演算法：
 - GMM(Gaussian Mixture Models 高斯混合模型)
   - sklearn的[`GaussianMixture`類別](https://scikit-learn.org/stable/modules/generated/sklearn.mixture.GaussianMixture.html#sklearn.mixture.GaussianMixture)
   - Python Data Science Handbook: [In Depth: Gaussian Mixture Models](https://jakevdp.github.io/PythonDataScienceHandbook/05.12-gaussian-mixtures.html)
+  - GMM演算法的[數學解釋](https://www.itread01.com/content/1542559636.html)
   - 常搭配另一個[EM演算法使得收斂速度更快](https://medium.com/@chih.sheng.huang821/%E6%A9%9F%E5%99%A8%E5%AD%B8%E7%BF%92-em-%E6%BC%94%E7%AE%97%E6%B3%95-expectation-maximization-algorithm-em-%E9%AB%98%E6%96%AF%E6%B7%B7%E5%90%88%E6%A8%A1%E5%9E%8B-gaussian-mixture-model-gmm-%E5%92%8Cgmm-em%E8%A9%B3%E7%B4%B0%E6%8E%A8%E5%B0%8E-c6f634410483)。
 - Mean-Shift
   - sklearn的[`MeanShift`類別](https://scikit-learn.org/stable/modules/generated/sklearn.cluster.MeanShift.html)以及使用[範例](https://scikit-learn.org/stable/auto_examples/cluster/plot_mean_shift.html)

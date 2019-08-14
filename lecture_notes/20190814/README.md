@@ -15,4 +15,8 @@
 
 ## Python 訓練好的模型在其他平台的使用方法
 
+建議可轉換成ONNX，再配合不同運算平台去轉換對應的可運算模型：  
+[https://github.com/onnx/tutorials#converting-to-onnx-format](https://github.com/onnx/tutorials#converting-to-onnx-format)
+
+Scikit-Learn模型轉換為ONNX格式：
 [https://github.com/onnx/sklearn-onnx](https://github.com/onnx/sklearn-onnx)
