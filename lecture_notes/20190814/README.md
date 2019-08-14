@@ -20,3 +20,7 @@
 
 Scikit-Learn模型轉換為ONNX格式：
 [https://github.com/onnx/sklearn-onnx](https://github.com/onnx/sklearn-onnx)
+
+## Python 效能調效
+
+使用[Cython](https://cython.org/)轉成C++ code編譯成原生程式
