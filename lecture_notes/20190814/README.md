@@ -6,6 +6,7 @@
 
 [Python上各種 Clustering 演算法的概念解釋](https://zi.media/@yidianzixun/post/tApdq7)
 
-[Decision Tree 演算法步驟解釋影片](https://www.youtube.com/watch?v=7VeUPuFGJHk)
+[Decision Tree 演算法步驟解釋影片](https://www.youtube.com/watch?v=7VeUPuFGJHk)  
+[Python scikit-learn範例](https://stackabuse.com/decision-trees-in-python-with-scikit-learn/)
 
 [Hierarchical Clustering 演算法步驟解釋影片](https://www.youtube.com/watch?v=7xHsRkOdVwo)
