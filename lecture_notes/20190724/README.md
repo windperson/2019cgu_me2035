@@ -38,6 +38,7 @@ sklearn的`sklearn.cluster`模組提供了現成可用的演算法：
 - K-Means
   - 需要預先設定總共區分的群組數
   - sklearn的[`KMeans`類別](https://scikit-learn.org/stable/modules/generated/sklearn.cluster.KMeans.html)，使用方法見[這篇](https://towardsdatascience.com/understanding-k-means-clustering-in-machine-learning-6a6e67336aa1)的介紹。
+  - 若資料的原始分布特性很極端，分群的效果會很差，甚至無法分群：[http://www.csie.ntnu.edu.tw/~u91029/Classification.html](http://www.csie.ntnu.edu.tw/~u91029/Classification.html)
 - GMM(Gaussian Mixture Models)
   - sklearn的[`GaussianMixture`類別](https://scikit-learn.org/stable/modules/generated/sklearn.mixture.GaussianMixture.html#sklearn.mixture.GaussianMixture)
   - Python Data Science Handbook: [In Depth: Gaussian Mixture Models](https://jakevdp.github.io/PythonDataScienceHandbook/05.12-gaussian-mixtures.html)
