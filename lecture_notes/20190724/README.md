@@ -18,7 +18,7 @@ Python的sklearn有提供現成的[`LogisticRegression`類別](https://scikit-le
   - [Azure Notebooks範例](http://notebooks.azure.com/jakevdp/projects/PythonDataScienceHandbook/html/notebooks/05.05-Naive-Bayes.ipynb)
 
 - K-近鄰演算法(K Nearest Neighbor, **KNN**)
-  - sklearn的[`KNeighborsClassifier`類別](https://scikit-learn.org/stable/modules/generated/sklearn.neighbors.KNeighborsClassifier.html)，使用方法見[這篇](https://ithelp.ithome.com.tw/articles/10197110)的介紹，實際演算法的手刻法可以看[這篇](https://www.kdnuggets.com/2016/01/implementing-your-own-knn-using-python.html)
+  - sklearn的[`KNeighborsClassifier`類別](https://scikit-learn.org/stable/modules/generated/sklearn.neighbors.KNeighborsClassifier.html)，使用方法見[這篇](https://ithelp.ithome.com.tw/articles/10197110)的介紹，[Azure Notebooks範例](https://notebooks.azure.com/windperson/projects/knndemo)，實際演算法的手刻法可以看[這篇](https://www.kdnuggets.com/2016/01/implementing-your-own-knn-using-python.html)
 
 ### 進階的分類演算法
 
