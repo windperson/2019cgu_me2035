@@ -1,5 +1,7 @@
 # 今日上課提到的東西
 
+[github Gist使用教學](https://sofree.cc/github-gist/)
+
 [Decision Tree的範例](https://stackabuse.com/decision-trees-in-python-with-scikit-learn/)
 
 判斷機器學習模型的效果指標：[precision, recall, accuracy的意義](https://www.ycc.idv.tw/confusion-matrix.html)
