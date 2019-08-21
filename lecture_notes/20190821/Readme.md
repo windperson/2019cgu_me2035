@@ -2,9 +2,20 @@
 
 [github Gist使用教學](https://sofree.cc/github-gist/)
 
+```
+//C-like:
+x !=1 ? true : false
+(判斷式) ? {判斷為true時的回傳} : {判斷為false時的回傳}
+
+#python:
+randrange(1,4) if item == "*" else item
+{判斷為true時的回傳} if {判斷式} else {判斷為false時的回傳}
+```
+
 [Decision Tree的範例](https://stackabuse.com/decision-trees-in-python-with-scikit-learn/)
 
 判斷機器學習模型的效果指標：[precision, recall, accuracy的意義](https://www.ycc.idv.tw/confusion-matrix.html)
+[sckit-learn的內建函式](https://scikit-learn.org/stable/modules/model_evaluation.html#common-cases-predefined-values)
 
 ## Support Vector Machine
 
