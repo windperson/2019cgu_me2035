@@ -3,14 +3,17 @@
 [github Gist使用教學](https://sofree.cc/github-gist/)
 
 Python 一行文的if else敘述類似C/C++/C#/Java/JavaScript等C-like language的三元運算子：
-```
+
+```Cpp
 //C-like:
 x !=1 ? true : false
-(判斷式) ? {判斷為true時的回傳} : {判斷為false時的回傳}
+// (判斷式) ? {判斷為true時的回傳} : {判斷為false時的回傳}
+```
 
+```python
 #python:
-randrange(1,4) if item == "*" else item
-{判斷為true時的回傳} if {判斷式} else {判斷為false時的回傳}
+0 if item == "*" else item
+# {判斷為true時的回傳} if (判斷式) else {判斷為false時的回傳}
 ```
 
 [Decision Tree的範例](https://stackabuse.com/decision-trees-in-python-with-scikit-learn/)
