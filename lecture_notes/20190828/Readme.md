@@ -15,6 +15,12 @@
 
 ## 課後學習資源
 
+學習資訊業知識/技能的幾個撇步：
+
+- [模式法則](https://www.facebook.com/startupgrouphk/photos/a.889982791077653/1491460334263226)
+- [抽象滲透法則](http://local.joelonsoftware.com/wiki/The_Joel_on_Software_Translation_Project:%E6%8A%BD%E8%B1%A1%E6%BB%B2%E6%BC%8F%E6%B3%95%E5%89%87)
+- [側向思維](https://wiki.mbalib.com/zh-tw/%E5%88%9B%E9%80%A0%E6%80%A7%E6%80%9D%E7%BB%B4)
+
 ### 台灣機器學習相關社群
 
 - [Taiwan R User Group / MLDM Monday](https://www.meetup.com/Taiwan-R/)
@@ -26,6 +32,7 @@
 
 - [從資料科學橫入人工智慧領域](https://www.tenlong.com.tw/products/9789865003159)
 - [練好機器學習的基本功｜用 Python 進行基礎數學理論的實作](https://www.tenlong.com.tw/products/9789864768981)
+- [深度學習入門教室](天ttps://www.tenlong.com.tw/products/9789862357156)
 - [【尹相志深度學習實戰1】秒懂AI深度學習-基本概念篇](https://www.tibame.com/course/493)
 - [Introduction to Machine Learning](https://developers.google.com/machine-learning/crash-course/ml-intro)
 - [Principles of Machine Learning: Python Edition](https://www.edx.org/course/principles-of-machine-learning-python-edition-3)
