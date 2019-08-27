@@ -18,8 +18,11 @@ x !=1 ? true : false
 
 [Decision Tree的範例](https://stackabuse.com/decision-trees-in-python-with-scikit-learn/)
 
-判斷機器學習模型的效果指標：[precision, recall, accuracy的意義](https://www.ycc.idv.tw/confusion-matrix.html)
-[sckit-learn的內建函式](https://scikit-learn.org/stable/modules/model_evaluation.html#common-cases-predefined-values)
+## 判斷機器學習模型的效果指標
+
+- [precision, recall, accuracy的意義](https://www.ycc.idv.tw/confusion-matrix.html)
+- [Explaining precision and recall](https://medium.com/@klintcho/explaining-precision-and-recall-c770eb9c69e9)
+- [sckit-learn的內建函式](https://scikit-learn.org/stable/modules/model_evaluation.html#common-cases-predefined-values)
 
 ## Support Vector Machine
 
