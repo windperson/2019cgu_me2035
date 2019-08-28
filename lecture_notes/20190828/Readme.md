@@ -1,6 +1,6 @@
 # 今日上課提到的東西
 
-## 二分法擴充、Boosting
+## 二分類演算法擴充
 
 先前學的Logistic Regression, Decision Tree, SVM都是一種 **二分法** 的分類演算法，如何做到可以分出多類別的判斷？
 
@@ -12,6 +12,13 @@
   - 根據預計要分出n類，[產生出 n(n-1)/2 個SVM，並餵給隨機 C(n, 2) 的組合資料來訓練](https://www.quora.com/Whats-an-intuitive-explanation-of-one-versus-one-classification-for-support-vector-machines)。
   - [https://www.youtube.com/watch?v=6kzvrq-MIO0](https://www.youtube.com/watch?v=6kzvrq-MIO0)
   - 準確性較one vs all高
+
+## Boosting
+
+藉由提供標註這次辨識錯誤的訓練資料，不斷重複訓練本質上辨識成效差的模型，以便讓該模型的辨識能力提高：  
+
+- [整合學習--bagging、boosting、stacking](https://www.itread01.com/content/1547223330.html)
+- [Adaptive Boosting(AdaBoosting)](https://www.youtube.com/watch?v=hL8DjIHAzZY)
 
 ## 課後學習資源
 
@@ -32,7 +39,9 @@
 
 - [從資料科學橫入人工智慧領域](https://www.tenlong.com.tw/products/9789865003159)
 - [練好機器學習的基本功｜用 Python 進行基礎數學理論的實作](https://www.tenlong.com.tw/products/9789864768981)
-- [深度學習入門教室](天ttps://www.tenlong.com.tw/products/9789862357156)
+- [深度學習入門教室](https://www.tenlong.com.tw/products/9789862357156)
+- [林軒田-機器學習基石](https://www.youtube.com/watch?v=nQvpFSMPhr0&list=PLXVfgk9fNX2I7tB6oIINGBmW50rrmFTqf)
+- [林軒田-機器學習技法](https://www.youtube.com/watch?v=A-GxGCCAIrg&list=PLXVfgk9fNX2IQOYPmqjqWsNUFl2kpk1U2)
 - [【尹相志深度學習實戰1】秒懂AI深度學習-基本概念篇](https://www.tibame.com/course/493)
 - [Introduction to Machine Learning](https://developers.google.com/machine-learning/crash-course/ml-intro)
 - [Principles of Machine Learning: Python Edition](https://www.edx.org/course/principles-of-machine-learning-python-edition-3)
