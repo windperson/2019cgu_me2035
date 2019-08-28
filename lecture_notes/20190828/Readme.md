@@ -20,6 +20,10 @@
 - [整合學習--bagging、boosting、stacking](https://www.itread01.com/content/1547223330.html)
 - [Adaptive Boosting(AdaBoosting)](https://www.youtube.com/watch?v=hL8DjIHAzZY)
 
+## GPU加速
+
+Keras 安裝 : [https://github.com/antoniosehk/keras-tensorflow-windows-installation](https://github.com/antoniosehk/keras-tensorflow-windows-installation)
+
 ## 自動訓練機器模型
 
 [Automated machine learning (AutoML)](https://en.wikipedia.org/wiki/Automated_machine_learning)讓不太曉得怎樣調參數的AI訓練家也能train出堪用的模型！
