@@ -20,6 +20,13 @@
 - [整合學習--bagging、boosting、stacking](https://www.itread01.com/content/1547223330.html)
 - [Adaptive Boosting(AdaBoosting)](https://www.youtube.com/watch?v=hL8DjIHAzZY)
 
+## 自動訓練機器模型
+
+[Automated machine learning (AutoML)](https://en.wikipedia.org/wiki/Automated_machine_learning)讓不太曉得怎樣調參數的AI訓練家也能train出堪用的模型！
+
+- [Azure AutoML](https://docs.microsoft.com/en-us/azure/machine-learning/service/concept-automated-ml)
+- [Cloud AutoML](https://cloud.google.com/automl/docs/)
+
 ## 課後學習資源
 
 學習資訊業知識/技能的幾個撇步：
