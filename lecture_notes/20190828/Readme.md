@@ -27,6 +27,11 @@
 - [Azure AutoML](https://docs.microsoft.com/en-us/azure/machine-learning/service/concept-automated-ml)
 - [Cloud AutoML](https://cloud.google.com/automl/docs/)
 
+## AI的罩門
+
+- [神馬漢斯](https://youtu.be/XnyM3-xtxHs?t=82)
+- [黑天鵝效應](https://zh.wikipedia.org/zh-hant/%E9%BB%91%E5%A4%A9%E9%B5%9D%E6%95%88%E6%87%89)
+
 ## 課後學習資源
 
 學習資訊業知識/技能的幾個撇步：
@@ -49,6 +54,7 @@
 - [深度學習入門教室](https://www.tenlong.com.tw/products/9789862357156)
 - [林軒田-機器學習基石](https://www.youtube.com/watch?v=nQvpFSMPhr0&list=PLXVfgk9fNX2I7tB6oIINGBmW50rrmFTqf)
 - [林軒田-機器學習技法](https://www.youtube.com/watch?v=A-GxGCCAIrg&list=PLXVfgk9fNX2IQOYPmqjqWsNUFl2kpk1U2)
+- [李宏毅-錄影列表](https://www.youtube.com/channel/UC2ggjtuuWvxrHHHiaDH1dlQ/playlists)
 - [【尹相志深度學習實戰1】秒懂AI深度學習-基本概念篇](https://www.tibame.com/course/493)
 - [Introduction to Machine Learning](https://developers.google.com/machine-learning/crash-course/ml-intro)
 - [Principles of Machine Learning: Python Edition](https://www.edx.org/course/principles-of-machine-learning-python-edition-3)
