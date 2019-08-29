@@ -7,3 +7,5 @@
 
 【提示】資料整理的方法可參考：  
 [https://fatihsarigoz.com/autompg-data.html](https://fatihsarigoz.com/autompg-data.html)
+
+([解答](https://notebooks.azure.com/windperson/projects/work1answer))
