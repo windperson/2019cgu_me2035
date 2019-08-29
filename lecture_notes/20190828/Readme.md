@@ -62,3 +62,5 @@ Keras 安裝 : [https://github.com/antoniosehk/keras-tensorflow-windows-installa
 - [【尹相志深度學習實戰1】秒懂AI深度學習-基本概念篇](https://www.tibame.com/course/493)
 - [Introduction to Machine Learning](https://developers.google.com/machine-learning/crash-course/ml-intro)
 - [Principles of Machine Learning: Python Edition](https://www.edx.org/course/principles-of-machine-learning-python-edition-3)
+
+[期末作業](./work3.md)
