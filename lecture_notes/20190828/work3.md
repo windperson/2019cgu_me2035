@@ -12,4 +12,11 @@ _對學員模擬考、檢討作答錯誤，並下次特別著重於該考題類�
 >5. 最後在應用場景中使用來預測實際結果時，由這個n個模型中選擇多個辨識度高與低的模型聯合使用，以便產出真正的判斷輸出。
 
 在這次作業要做的是：  
-使用[scikit-learn提供的AdaBoost](https://scikit-learn.org/stable/modules/generated/sklearn.ensemble.AdaBoostClassifier.html#sklearn.ensemble.AdaBoostClassifier)，將[作業2-2](../20190731/work2.md)的SVM手寫數字辨識模型，(看能否)將準確率提高到 **90%** 以上。
+使用[scikit-learn提供的AdaBoostClassifier](https://scikit-learn.org/stable/modules/generated/sklearn.ensemble.AdaBoostClassifier.html#sklearn.ensemble.AdaBoostClassifier)，將[作業2-2](../20190731/work2.md)的SVM手寫數字辨識模型，(看能否)將準確率提高到 **90%** 以上。
+
+【提示】  
+
+- 記得將[SVM設定成使用機率的](https://scikit-learn.org/stable/modules/generated/sklearn.svm.SVC.html)`probability=True`，才能在AdaBoostClassifer使用。
+- 重複的次數不用太多，一來準確率會下降，二來實際用來做預測時的所需的運算時間會增加，原本這種boost演算法就不保證每次能提升的準確率是固定的。
+- 以下是實驗成功的截圖：  
+  ![success train higher rate model](./img/work3_result.png)
