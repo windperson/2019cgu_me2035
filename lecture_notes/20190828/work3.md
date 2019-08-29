@@ -2,7 +2,7 @@
 
 [Boosting演算法](https://www.analyticsvidhya.com/blog/2015/11/quick-introduction-boosting-algorithms-machine-learning/)可以藉由在機器學習模型在初步訓練完成，雖然準確度不高但至少有辦法標註出辨識結果之後，人為的方式強化其辨識效果以達到更進一步的微調提升。
 
-其算法原理，其實近似於人類補習班的學習模式：  
+其演算法原理，其實近似於人類補習班的學習模式：  
 _對學員模擬考、檢討作答錯誤，並下次特別著重於該考題類型出題來施行連續模擬考以便提升考試分數_ 的方式。
 
 >1. 先以原始訓練資料(假設有m個初始權重一致的樣本資料集)訓練出一個雖然準確率不高，但至少可以有基本判斷結果的機器學習模型。
@@ -17,6 +17,6 @@ _對學員模擬考、檢討作答錯誤，並下次特別著重於該考題類�
 【提示】  
 
 - 記得將[SVM設定成使用機率的](https://scikit-learn.org/stable/modules/generated/sklearn.svm.SVC.html)`probability=True`，才能在AdaBoostClassifer使用。
-- 重複的次數不用太多，一來準確率會下降，二來實際用來做預測時的所需的運算時間會增加，原本這種boost演算法就不保證每次能提升的準確率是固定的。
+- 重複的次數不用太多，一來準確率會下降，二來實際用來做預測時的所需的運算時間會增加，原本這種boost演算法就不保證每次產出的結果模型，其提升的準確率是固定的。
 - 以下是實驗成功的截圖：  
   ![success train higher rate model](./img/work3_result.png)
