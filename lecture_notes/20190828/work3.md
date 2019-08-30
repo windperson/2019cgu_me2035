@@ -14,6 +14,8 @@ _對學員模擬考、檢討作答錯誤，並下次特別著重於該考題類�
 在這次作業要做的是：  
 使用[scikit-learn提供的AdaBoostClassifier](https://scikit-learn.org/stable/modules/generated/sklearn.ensemble.AdaBoostClassifier.html#sklearn.ensemble.AdaBoostClassifier)，將[作業2-2](../20190731/work2.md)的SVM手寫數字辨識模型，(看能否)將準確率提高到 **90%** 以上。
 
+([解答](https://notebooks.azure.com/windperson/projects/work3answer))
+
 【提示】  
 
 - 記得將[SVM設定成使用機率的](https://scikit-learn.org/stable/modules/generated/sklearn.svm.SVC.html)`probability=True`，才能在AdaBoostClassifer使用。
